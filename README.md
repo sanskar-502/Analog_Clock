@@ -1,1 +1,1 @@
-# Analog_Clock
+A simple and visually appealing analog clock built with HTML, CSS, and Vanilla JavaScript. The clock dynamically rotates hour, minute, and second hands in real-time, simulating the look of a traditional analog clock.
